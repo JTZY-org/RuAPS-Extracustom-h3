@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+**/build/
+
+# OpenWrt SDK archives (large)
+*.tar.zst
+*.tar.gz
+openwrt-sdk*/
+
+# Local / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Temp deploy helpers
+_remote_*.py

@@ -1,0 +1,14 @@
+{
+  "id":  "ef4b0d7c-f47e-4484-8c55-27392aceaf81",
+  "name":  "/home/user/build/Ru_APM/User/Extracustom",
+  "projectResources":  {
+    "resources":  [
+      {
+        "gitFolder":  {
+          "folderUri":  "file:///home/user/build/Ru_APM/User/Extracustom",
+          "allowWrite":  true
+        }
+      }
+    ]
+  }
+}
